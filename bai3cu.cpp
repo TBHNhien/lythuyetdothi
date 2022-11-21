@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #define MAX 10
 
+//day la chinh sua
 typedef struct GRAPH {
 	int n ; //so dinh do thi
 	int a[MAX][MAX];//MA tran ke cua do thi
