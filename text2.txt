@@ -9,4 +9,8 @@
 
 =======
 chinh sua loi
+<<<<<<< HEAD
 >>>>>>> f57667dfb3774472eb15e2f5a08926ba91edbee4
+=======
+chinh sua lan2
+>>>>>>> 8c0ac7babb36851cdd20372a947e18c3fb26cfb0
