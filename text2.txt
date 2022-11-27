@@ -5,4 +5,8 @@
 3	1	2	0
 
 
---tạo conflict 1 
+<<<<<<< HEAD
+
+=======
+chinh sua loi
+>>>>>>> f57667dfb3774472eb15e2f5a08926ba91edbee4
