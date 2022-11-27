@@ -4,5 +4,9 @@
 0	3	0	2
 3	1	2	0
 
+<<<<<<< HEAD
 
 tren may moi sua conf
+=======
+trên git la nay
+>>>>>>> dbfdec2664a72924393df412242b2bb736c40fda
