@@ -114,7 +114,7 @@ int main ()
 {
 	DOTHI g;
 		
-	if (DocMaTranKe((char*)"text4.1.txt",g) == 1)
+	if (DocMaTranKe((char*)"text1.1.1.txt",g) == 1)
 	{
 		printf("Da lay thong tin do thi tu file thanh cong.\n\n");
 		XuatMaTranKe(g);
